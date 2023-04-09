@@ -1,5 +1,6 @@
 {
   "hosting": {
+      "site": "test-impostersoft",
     "public": "public",
     "ignore": [
       "firebase.json",
