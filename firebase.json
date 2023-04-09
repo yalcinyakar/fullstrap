@@ -1,6 +1,5 @@
 {
   "hosting": {
-      "site": "ai.impostersoft",
     "public": "public",
     "ignore": [
       "firebase.json",
@@ -10,7 +9,7 @@
     "rewrites": [
       {
         "source": "**",
-        "destination": "/ai.html"
+        "destination": "/index.html"
       }
     ]
   }
